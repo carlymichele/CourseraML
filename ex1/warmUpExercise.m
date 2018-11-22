@@ -3,7 +3,6 @@ function A = warmUpExercise()
 %   A = WARMUPEXERCISE() is an example function that returns the 5x5 identity matrix
 
 A = [];
-B = [];
 
 % ==== YOUR CODE HERE ==============
 % Instructions: Return the 5x5 identity matrix
@@ -12,8 +11,6 @@ B = [];
 %               and then set them accordingly.
 
 A = eye(5);
-
-B = eye(6);
 
 % ===========================================
 
